@@ -1,5 +1,4 @@
-# echo
-echo tele bot
+# echo echo tele bot
 #!/usr/bin/python
 
 # This is a simple echo bot using the decorator mechanism.
